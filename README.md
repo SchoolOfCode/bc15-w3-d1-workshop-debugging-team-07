@@ -43,8 +43,7 @@ Time to dive into action! 🏊‍♂️ Here's what you'll be working on:
 
 You and your team have been tasked with debugging a new shopping list application (in the `ticket-1` folder). Despite the CSS and JavaScript files, two issues exist:
 
-- Page is unstyled - the "Add" button should be green.
-- Page is not interactive - clicking "Add" does nothing, even though JavaScript handles interactivity.
+- Page is unstyled - the "Ad ot interactive - clicking "Add" does nothing, even though JavaScript handles interactivity.
 
 Your task is to investigate and fix the bugs so:
 

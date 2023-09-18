@@ -11,4 +11,4 @@ initials += currentInitial;
 
 return initials;
 }
-console.log(extractInitialsFromFullName)
+console.log(extractInitialsFromFullName("Matthew Kirke"))
